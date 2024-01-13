@@ -1,10 +1,10 @@
-# Todo Using CONTEXT-API
+# Todo Using Redux-Toolkit
 
 A simple todo app designed for beginners, created using React and powered by the Redux-Toolkit. This project provides a hands-on introduction to React development, allowing users to manage their daily tasks effortlessly.
 
 ## Features
 
-- **Context API:** Utilizes the Redux Toolkit for state management, offering a straightforward way to handle global application state.
+- **Redux Toolkit:** Utilizes the Redux Toolkit for state management, offering a straightforward way to handle global application state.
 - **Local Storage:** All todo items are stored in the browser's local storage, ensuring persistence even after page reloads.
 
 ## How to Use
